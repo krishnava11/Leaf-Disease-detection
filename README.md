@@ -18,7 +18,7 @@ PACKAGE REQUIREMENTS
 - Expects CentOS/RHEL 6 or 7 hosts
 
 These playbooks deploy latest Jenkins Server in jenkins.org and creates a profile with "Ansible_Project",
-having Username #admin and Password #admin@123.
+having Username "admin" and Password "admin@123".
 To use them, first edit the group_vars/all file to set any EC2 configuration parameters you need.
 
 Then run the playbook, like this:
