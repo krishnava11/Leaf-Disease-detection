@@ -21,7 +21,7 @@ mkl-service==2.3.0
 mock==3.0.5
 numpy==1.18.1
 opencv-python==4.1.2.30
-Pillow==7.0.0
+Pillow==9.0.0
 protobuf==3.11.2
 pylint==2.4.3
 pyparsing==2.4.6
